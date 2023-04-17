@@ -1,1 +1,1 @@
-# Express-JS
+# Partials in Express JS
